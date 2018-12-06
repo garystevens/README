@@ -4,19 +4,21 @@ My leadership and manager operating manual. A guide to what you can expect from 
 
 ## My Leadership Philosophy 
 
-// Todo
+I believe it is my role to help guide you by clarifying the unknowns and giving you a clear direction to an end goal. If I'm doing my job correctly you should always know what your objectives are, and be empowered to achieve them. I value honesty and transparency when discussing issues, and promise the same in return. If I make a promise to you, I intend to keep it as I value being accountable for what I say I am going to deliver.
 
 ## My answers to [first 1:1 questions](http://larahogan.me/blog/first-one-on-one-questions/ "What to ask in the first 1:1")
  
 
 What makes you grumpy?
 
-// Todo 
+It's cheesy, but I really value team work and people collaborating. I get grumpy if others don't pull together and put personal agenda before the team. I'd rather we honestly spoke about our agendas and compromised where possible. 
+
+I also get [hangry](https://www.merriam-webster.com/words-at-play/hangry-meaning) from time-to-time, so 11.30am you might notice I'm grumpy. 😡
 
 
 How will I know when you’re grumpy?
 
-// Todo
+I'll tell you 😉. I am guilty of being impatient when stressed, which can be interpreted as grumpy.
 
 
 How can I help you when you’re grumpy?
@@ -26,7 +28,7 @@ How can I help you when you’re grumpy?
 
 How do you like feedback - slack, email, in person, etc?
 
-// Todo 
+Face-to-face is my preferred communcation method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarise. I use email as my 'to do' list, so a written confirmation of it helps me keep track of the conversation and keeps it on my radar.
 
 How do you like feedback - routine like in 1:1s, or as-it-happens?
 
@@ -35,22 +37,23 @@ How do you like feedback - routine like in 1:1s, or as-it-happens?
 
 How do you prefer to receive recognition? (public or private)
 
-// Todo 
+Public 🎉
 
 
 What makes 1:1s the most valuable for you?
 
-// Todo
+If I can understand where you are experiencing problems, the root cause, and what the impact is on you, I can move quickly to identify actions and support. Alternatively, if you don't want direct support but a chance to vent - just let me know. Knowing what level of support you need is useful.
 
 
 What are your goals for this year? And for the next 3 months?
 
-// Todo
-
+* Create metrics for my teams to measure their inner-sourcing adoption
+* Create development plans for the engineers within my teams
+* Produce code dependency reports on the skills required to managed the tech estate for my teams
 
 What do you need from your manager?
 
-// Todo
+A broad goal for the engineering department, and 
 
 
 From your team?
