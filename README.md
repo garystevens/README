@@ -16,12 +16,12 @@ It's cheesy, but I really value team work and people collaborating. I get grumpy
 I also get [hangry](https://www.merriam-webster.com/words-at-play/hangry-meaning) from time-to-time, so 11.30am you might notice I'm grumpy. 😡
 
 
-### How will I know when youre grumpy?
+### How will I know when you're grumpy?
 
 I'll tell you 😉. I am guilty of being impatient when stressed, which can be interpreted as grumpy.
 
 
-### How can I help you when youre grumpy?
+### How can I help you when you're grumpy?
 
 A good joke does the trick. Ideally, a really silly, cheesy one.
 
