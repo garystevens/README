@@ -16,24 +16,24 @@ It's cheesy, but I really value team work and people collaborating. I get grumpy
 I also get [hangry](https://www.merriam-webster.com/words-at-play/hangry-meaning) from time-to-time, so 11.30am you might notice I'm grumpy. 😡
 
 
-### How will I know when you’re grumpy?
+### How will I know when youre grumpy?
 
 I'll tell you 😉. I am guilty of being impatient when stressed, which can be interpreted as grumpy.
 
 
-### How can I help you when you’re grumpy?
+### How can I help you when youre grumpy?
 
-// Todo
+A good joke does the trick. Ideally, a really silly, cheesy one.
 
 
 ### How do you like feedback - slack, email, in person, etc?
 
-Face-to-face is my preferred communcation method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarise. I use email as my 'to do' list, so a written confirmation of it helps me keep track of the conversation and keeps it on my radar.
+Face-to-face is my preferred communication method. My ideal flow would be a slack message to arrange a face-to-face chat (if its urgent I'll drop what I'm doing), and then an email to summarize. I use email as my 'to do' list, so a written confirmation of it helps me keep track of the conversation and keeps it on my radar.
 
 
 ### How do you like feedback - routine like in 1:1s, or as-it-happens?
 
-// Todo 
+As-it-happens. I believe that there should be no surprises when it comes to formal 1:1s or reviews, and that challenges are easier to address through honest, regular feedback. 
 
 
 ### How do you prefer to receive recognition? (public or private)
@@ -55,21 +55,25 @@ If I can understand where you are experiencing problems, the root cause, and wha
 
 ### What do you need from your manager?
 
-A broad goal for the engineering department, and 
-
-
-### From your team?
-
-// Todo
-
+The autonomy and trust to delivery on my objectives. I also like to know my manager will challenge me to do more when I'm performing well, and to let me know when I've messed up. I also like to know my manager has my back if I go to them with a problem.
 
 ## My expectations of folks who report to me
 
-// Todo
+If you're a manager yourself, you're the one I rely on to know what issues or challenges your direct reports face. So please invest in time to understand these, and surface any challenges they might have. 
+
+As conveniently as possible, let me know where you need my direct support. The sooner I know about something, the earlier I can give you what you need. 
+
+If I come to you with a requirement, or a task and you agree to support it, I expect you to honour that commitment. I won't ask you to help me with tasks that aren't important and trivial without saying so, so if you don't realistically think you can do something tell me, and I'll work around it.
+
+Be honest with me, and let me know what challenges you have. It's easier to solve problems when I know what they are, and I’ll never consider seeking support as a sign of complaining or a weakness. 
 
 
 ## What you can expect of me as your manager
 
-// Todo
+Transparency and honesty on how I think you're doing. I'll praise regularly when I think you're doing great, and speak openly and clearly to you about the things I need to see change. Whenever I give feedback I'll make sure to include practical examples that you can work on. I'll never set you a goal that I don't feel you have the means and support to achieve.
+
+I'll share my goals with you, so you always know what my priorities are, and what I'm working on. When I do this, I'll share where I need your input. When setting objectives for you, it will always be with your own career aspirations in mind.
+
+I promise to encourage a healthy work/life balance, and advocate for your well-being at all times. 
 
 
